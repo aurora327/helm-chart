@@ -9,6 +9,6 @@ entries:
     name: bf16
     type: application
     urls:
-    - https://github.com/liuxiaodong-colin/helm-chart/bf16-0.1.0.tgz
+    - https://liuxiaodong-colin.github.io/helm-chart/bf16-0.1.0.tgz
     version: 0.1.0
 generated: "2022-04-01T10:49:06.244890115+08:00"
